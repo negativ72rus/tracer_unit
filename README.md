@@ -45,4 +45,7 @@ void loop() {
 ## Фото готового устройства
 ![PROJECT_PHOTO](https://github.com/negativ72rus/tracer_unit/blob/master/Screenshot_1.png)
 ![PROJECT_PHOTO](https://github.com/negativ72rus/tracer_unit/blob/master/Screenshot_3.png)
-
+![PROJECT_PHOTO](https://github.com/negativ72rus/tracer_unit/blob/master/photo5309820360004317224.jpg)
+![PROJECT_PHOTO](https://github.com/negativ72rus/tracer_unit/blob/master/photo5309820360004317223.jpg)
+![PROJECT_PHOTO](https://github.com/negativ72rus/tracer_unit/blob/master/photo5309820360004317222.jpg)
+![PROJECT_PHOTO](https://github.com/negativ72rus/tracer_unit/blob/master/photo5309820360004317217.jpg)
