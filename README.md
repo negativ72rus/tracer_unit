@@ -43,4 +43,6 @@ void loop() {
 
 <a id="chapter-2"></a>
 ## Фото готового устройства
-![PROJECT_PHOTO](https://github.com/negativ72rus/tracer_unit/blob/master/IMG_8334.MOV)
+![PROJECT_PHOTO](https://github.com/negativ72rus/tracer_unit/blob/master/Screenshot_1.png)
+![PROJECT_PHOTO](https://github.com/negativ72rus/tracer_unit/blob/master/Screenshot_3.png)
+
